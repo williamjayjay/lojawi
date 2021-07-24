@@ -1507,8 +1507,10 @@ Facility Media Query
   
   }
 
-  .border_prod a {
+  .textxx{
     text-align: center;
+    align-self: center;
+    
   }
 
   .border_prod img {
