@@ -61,7 +61,7 @@ if (glide2 )
     startAt: 0,
     perView: 6,
     hoverpause: true,
-      autoplay: 500,
+      autoplay: 3000,
     animationDuration: 1000,
     animationTimingFunc: "linear",
 
