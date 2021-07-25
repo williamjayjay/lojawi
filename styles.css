@@ -1467,7 +1467,7 @@ Facility Media Query
   .glide__slides--dragging{user-select:none}
 
   .ref_product{
-    margin-top: 8px;
+    margin-top: 16px;
       display: inline-block;
       color: var(--black);
       text-transform: uppercase;
@@ -1510,7 +1510,6 @@ Facility Media Query
   .textxx{
     text-align: center;
     align-self: center;
-    
   }
 
   .border_prod img {
@@ -1521,7 +1520,7 @@ Facility Media Query
   }
   
   .border_prod:hover img {
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
 
 .glide__slide{width:100%;
